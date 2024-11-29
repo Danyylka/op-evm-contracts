@@ -7,7 +7,7 @@ each containing their respective contracts and configurations.
 ## Staking
 The `staking` directory holds the staking contracts, 
 which provide APIs for watchtowers and sequencers to stake their tokens. 
-By staking their tokens, these participants can actively contribute to the consensus of the chain. 
+By staking their tokens, participants can actively contribute to the chain's consensus. 
 Additionally, the staking contract offers APIs for slashing malicious nodes and initiating dispute 
 resolutions against malicious actors.
 
